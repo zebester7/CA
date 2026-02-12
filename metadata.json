@@ -1,0 +1,7 @@
+{
+  "name": "Elite Financial Strategy & Accounting",
+  "description": "A premium digital platform for a high-level Chartered Accountant firm, focusing on digital authority, trust, and strategic financial partnership.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
